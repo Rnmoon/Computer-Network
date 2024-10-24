@@ -1,2 +1,3 @@
-NAME: ARYAN SUNIL MOON
-ROLL NO : TCOD24
+This repository contains codes for the CNS Lab ||
+Rohan Hiraman Sawant-TCOD19 ||
+TE-D  ||   Computer Engineering
